@@ -4,13 +4,17 @@ This folder contains the material necessary to the replication of our experiment
 
 ## Organization of the folder
 The folder is organized as follows : 
-<ul>
-	<li> The folder ```images``` contains miscellaneous plots and images generated throughout our study 	</li>
-	<li> The folder ```generative_model``` contains a script to build and train a GAN on you local machine and a notebook if you prefer to run it on Google Collab 	</li>
-	<li> The folder ```report``` contains the ```.tex``` and ```.pdf``` files of our theoretical report. 
-	<li> The notebook ```cs_replication_mnist``` contains our experiments 	</li>
-	<li> The model ```generator_model_100.h5``` is a generator trained on 100 epochs, used in our replication </li>
-</ul>
+
+The folder ``images`` contains miscellaneous plots and images generated throughout our study 
+
+The folder ```generative_model``` contains a script to build and train a GAN on you local machine and a notebook if you prefer to run it on Google Collab
+
+The folder ```report``` contains the ```.tex``` and ```.pdf``` files of our theoretical report. 
+
+The notebook ```cs_replication_mnist``` contains our experiments
+
+The model ```generator_model_100.h5``` is a generator trained on 100 epochs, used in our replication
+
 
 ## Description 
 

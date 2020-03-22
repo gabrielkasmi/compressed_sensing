@@ -9,7 +9,7 @@ The folder ``images`` contains miscellaneous plots and images generated througho
 
 The folder ```generative_model``` contains a script to build and train a GAN on you local machine and a notebook if you prefer to run it on Google Collab
 
-The folder ```report``` contains the ```.tex``` and ```.pdf``` files of our theoretical report. 
+The folder ```report``` contains the ```.pdf``` files of our theoretical report and the slides.
 
 The notebook ```cs_replication_mnist``` contains our experiments
 

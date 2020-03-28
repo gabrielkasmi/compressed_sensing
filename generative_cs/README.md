@@ -13,6 +13,8 @@ The folder ```report``` contains the ```.pdf``` files of our theoretical report 
 
 The notebook ```cs_replication_mnist``` contains our experiments
 
+The notebook ```cs_replication_mnist_2``` contains additional trials on the definition of the generative model. 
+
 The model ```generator_model_100.h5``` is a generator trained on 100 epochs, used in our replication
 
 
